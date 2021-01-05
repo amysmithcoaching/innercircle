@@ -1,0 +1,125 @@
+/* .grow {
+    background-color: lightgrey;
+    background-image: url(Airplane.jpg);
+    background-size: cover;
+    height: 800px
+} */
+
+.amy {
+    height: auto;
+    width: 100%
+}
+
+.top {
+    padding-top: 100px;
+    padding-left: 20px;
+}
+.grow-text {
+    color: white;
+    
+}
+
+.btn {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.look {
+    background-color: #f5f5f5;
+    color: #606060
+}
+
+.look-text {
+    color: #606060
+}
+
+.header-text {
+    color: #606060;
+    font-size: 2rem
+}
+
+.selling {
+    background-color:#456A87;
+    opacity: 75%;
+}
+
+.selling-text {
+    color: white
+}
+
+.extra {
+    height:200px;
+    width: 200px;
+    
+}
+
+h3 {
+    color: #606060
+}
+
+h4 {
+    color: #606060
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #606060
+
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color: #606060
+}
+
+.hand {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color: #606060
+}
+
+.hand-header {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #606060
+
+}
+
+#offer-1 {
+    font-size: 2rem;
+    line-height: 50px;
+    color: #606060
+}
+
+#offer {
+    font-size: 1.5rem;
+    color: #606060
+    
+}
+
+img {
+    height: auto;
+    width: 300px
+}
+
+
+.included {
+    background-color: #f5f5f5;
+    color: #606060
+}
+
+ul {margin-left: 50px;}
+/* li span {
+    position: relative;
+    left: 50px;
+  } */
+/* .content {
+    height: 80%;
+    border: 1px solid black;
+    background-color: white; 
+} */
+
+
+/* 'Shadows Into Light', cursive; */
